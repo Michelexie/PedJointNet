@@ -4,7 +4,8 @@
 處理器：Intel(R) Core(TM) i7-8700 CPU @ 3.20 GHz 3.19 GHz;\
 顯示卡：NVDIA GeForce GTX 1080Ti;RAM: 16.0 GB
 
-### 開發環境：JetBrains PyCharm Community Edition 2018.2.4 x64，Python3.6，Tensorflow1.6
+### 開發環境
+JetBrains PyCharm Community Edition 2018.2.4 x64，Python3.6，Tensorflow1.6
 
 ## 1. 主要功能
 利用我們設計的PedJointNet行人頭肩偵測網絡，預先對CHUK-SYSU, TownCentre, CityPersons等行人數據集訓練得到权重，可以對輸入影像中的行人頭肩與全身進行偵測，輸出預測影像。
