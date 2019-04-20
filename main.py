@@ -96,7 +96,7 @@ class Applications():
         Label(image=self.img).grid(row=2, column=0, columnspan=5, sticky=W)
 
     def detection(self):
-        MODEL_NAME = '1216_TownCentre'
+        MODEL_NAME = 'PedJointNet_weights'
         # Path to frozen detection graph. This is the actual model that is used for the object detection.
         PATH_TO_CKPT = MODEL_NAME + '/frozen_inference_graph.pb'
         # List of the strings that is used to add correct label for each box.
