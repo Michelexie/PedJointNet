@@ -8,12 +8,9 @@ from tkinter import *
 from PIL import Image,ImageTk
 import tkinter.filedialog
 sys.path.append("..")
-# from utils import ops as utils_ops
-# from utils import label_map_util
-# from utils import visualization_utils as vis_util
-import ops as utils_ops
-import label_map_util
-import visualization_utils as vis_util
+from utils import ops as utils_ops
+from utils import label_map_util
+from utils import visualization_utils as vis_util
 
 class Applications():
 
