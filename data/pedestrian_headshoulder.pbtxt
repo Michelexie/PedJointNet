@@ -1,0 +1,9 @@
+item {
+  id: 1
+  name: 'headshoulder'
+}
+
+item {
+  id: 2
+  name: 'pedestrian'
+}
