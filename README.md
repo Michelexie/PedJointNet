@@ -12,7 +12,7 @@ JetBrains PyCharm Community Edition 2018.2.4 x64，Python3.6，Tensorflow1.6
 
 ## 2. 操作步驟:
 ### 方法一：直接打開執行檔main.exe
-下載地址為：https://drive.google.com/file/d/18UKTjz2D5731QRm6xvpB3QcCzD9h9q5D/view?usp=sharing
+下載地址為：https://drive.google.com/file/d/15k85_Z1HSRT5godQ-bzImpRy2Af2sDIZ/view?usp=sharing
 
 ### 方法二：執行python文件
 ### 2.1 下載權重值
