@@ -1,17 +1,3 @@
-# Copyright 2017 The TensorFlow Authors. All Rights Reserved.
-#
-# Licensed under the Apache License, Version 2.0 (the "License");
-# you may not use this file except in compliance with the License.
-# You may obtain a copy of the License at
-#
-#     http://www.apache.org/licenses/LICENSE-2.0
-#
-# Unless required by applicable law or agreed to in writing, software
-# distributed under the License is distributed on an "AS IS" BASIS,
-# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-# See the License for the specific language governing permissions and
-# limitations under the License.
-# ==============================================================================
 
 """A module for helper tensorflow ops."""
 import math
@@ -20,11 +6,11 @@ import six
 
 import tensorflow as tf
 
-from object_detection.core import box_list
-from object_detection.core import box_list_ops
-from object_detection.core import standard_fields as fields
-from object_detection.utils import shape_utils
-from object_detection.utils import static_shape
+from core import box_list
+from core import box_list_ops
+from core import standard_fields as fields
+from utils import shape_utils
+from utils import static_shape
 
 
 def expanded_shape(orig_shape, start_dim, num_dims):
