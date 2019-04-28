@@ -28,3 +28,5 @@ JetBrains PyCharm Community Edition 2018.2.4 x64，Python3.6，Tensorflow1.6
 ![image](https://github.com/Michelexie/PedJointNet/blob/master/main_3.png)
 
 圖中綠色框代表偵測出的頭肩部位，藍色框代表偵測出的全身部位，每個框上的數字代表偵測的分數。
+
+### 若在run main.py時出現No module named google.protobuf的錯誤提示，請在cmd中執行pip install protobuf或者conda install protobuf。
